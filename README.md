@@ -7,5 +7,4 @@ android数据库SQLite的CRUD操作代码实现比较繁琐，所以利用greend
 再开始建表时，需要建一个java project,来对应生成android项目的对应数据库；操作实现需要自己封装。详细内容可以参考文档：
 http://greendao-orm.com/
 
-Developed By
-联系方式：YaC-ouacyou@gmail.com&QQ:782974424雨无溅.
+Developed By YaC-ouacyou@gmail.com&QQ:782974424雨无溅.
